@@ -1,0 +1,26 @@
+
+.body { 
+    width: 80%;
+    } 
+
+.i {
+    font-style: italic;
+   }
+
+
+.bg-yellow {
+  background-color: yellow;
+    }
+
+.bg-bluesky {
+    background-color: rgb(0, 238, 255);
+  }
+
+
+  .bg-notsobluesky {
+    background-color: rgba(130, 157, 187, 0.87);
+  }
+
+  .bg-blue {
+    background-color: rgba(10,129,255,0.87);
+  }
