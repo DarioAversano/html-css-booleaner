@@ -9,9 +9,11 @@
 </head>
 <body class="body">
 
-    <header class="bg-bluesky">
-        <img src="./img/pattern.png" alt="immagine The Booleaner" height="40" width="300">
-    </header>
+    <div class="pattern">
+        <img src="./img/pattern.png" alt="immagine The Booleaner" height="40" width="800">
+        
+
+    </div>
 
 <h1>Internet deve essere al servizio del "bene pubblico" : il manifesto di Tim Berners-Lee </h1>
 <p class="i">Scritto da <a href="http://www.thebooleaner.com/">The Booleaner</a><br>
@@ -22,7 +24,7 @@ il 10/10/2020</p>
 <p>1st photo: John S. and James L. Knight Foundation, by Scott Henrichsen <br> 2nd Photo; Wikimedia, by Paul Clarke</brZ></p>
 
 
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud </p><p style="background-color:yellow">exerci tation ullamcorper suscipit lobortis nisl <br> ut aliquip ex ea commodo consequat.</p> Duis autem vel eum iriure dolor in hendretit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent <br> luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud <span style="background-color:yellow">exerci tation ullamcorper suscipit lobortis nisl <br> ut aliquip ex ea commodo consequat.</span> Duis autem vel eum iriure dolor in hendretit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent <br> luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
 
 
     
@@ -58,7 +60,7 @@ il 10/10/2020</p>
       </table> 
 
       
-        
+        <p class="copyright"> Copyright The Booleaner - Tutti i diritti riservati</p>
       
 
 
