@@ -9,8 +9,9 @@
 </head>
 <body class="body">
 
-    <div class="pattern">
-        <img src="./img/pattern.png" alt="immagine The Booleaner" height="40" width="800">
+    <div class="container">
+        <img src="./img/pattern.png" alt="immagine The Booleaner" class="under">
+        <img src="./im>
         
 
     </div>
